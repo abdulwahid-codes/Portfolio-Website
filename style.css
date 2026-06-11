@@ -80,8 +80,8 @@ nav{
     line-height:1.7;
 }
 .hero-image img{
-    width:300px;
-    height:300px;
+    width:250px;
+    height:250px;
     object-fit:cover;
     border-radius:50%;
     border:5px solid #fff;
