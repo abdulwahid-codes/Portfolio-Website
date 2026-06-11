@@ -80,8 +80,8 @@ nav{
     line-height:1.7;
 }
 .hero-image img{
-    width:250px;
-    height:250px;
+    width:300px;
+    height:300px;
     object-fit:cover;
     border-radius:50%;
     border:5px solid #fff;
@@ -161,6 +161,9 @@ nav{
 
 .contact-box p{
     margin:10px 0;
+}
+.contact-box a{
+    color:#333;
 }
 
 /* Footer */
